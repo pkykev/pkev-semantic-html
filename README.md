@@ -8,7 +8,7 @@
 
 ## Deployment
 
-![Deployment Link](https://pkykev.github.io/pkev-semantic-html/)
+![https://pkykev.github.io/pkev-semantic-html/](./index.html)
 
 ## Screenshot
 
