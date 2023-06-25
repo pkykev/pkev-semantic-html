@@ -9,6 +9,7 @@
 ## Deployment
 
 ![https://pkykev.github.io/pkev-semantic-html/](https://pkykev.github.io/pkev-semantic-html/)
+<a href ="https://pkykev.github.io/pkev-semantic-html/">Semantic-HTML-Exercise</a>
 
 ## Screenshot
 
